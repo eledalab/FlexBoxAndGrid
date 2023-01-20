@@ -1,2 +1,1 @@
-# FlexBoxAndGrid
-http://flexboxgrid.com/
+# cssFlexBoxAndGrid
